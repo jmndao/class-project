@@ -1,9 +1,10 @@
-# $$ __STUDENT MANAGEMENT SYSTEM__ v.1.0.0 $$
-++++++++++++++++++++++++++++++++++++++++++++++
-## $$ DAUST-SMS $$ 
+#  __STUDENT MANAGEMENT SYSTEM__ v.1.0.0 :Class Project:Data Structure & Algorithm
+## DAUST-SMS (DAUST - Student Manager System) $
 
 ### Project Description
 **DAUST SMS** is a python-powered software that will allow to manage student registration as well as all resources and student integration.
+
+DAUST (Dakar American Universty of Science and Technology), is an american university in Somone, Senegal.
 
 #### 1. Registration
 
