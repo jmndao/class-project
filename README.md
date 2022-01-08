@@ -22,3 +22,7 @@ DAUST (Dakar American Universty of Science and Technology), is an american unive
 
 
 ### Participants
+
+#### Run the project
+Get inside the folder DAUSTSMS then the file app.py
+``` python3 app.py ```
